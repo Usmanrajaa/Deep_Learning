@@ -8,5 +8,5 @@ Code modular, tested, and documented.
 
 ---
 
-## Project structure (inside `Deep_Learning/`)
+
 <img width="691" height="393" alt="generated sample" src="https://github.com/user-attachments/assets/8c5580ee-13cc-4605-a995-c34e3015a834" />
