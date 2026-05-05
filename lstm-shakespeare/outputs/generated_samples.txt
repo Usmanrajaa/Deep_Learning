@@ -1,0 +1,73 @@
+SAMPLE GENERATIONS - LSTM FROM SCRATCH
+============================================================
+
+--- Seed: "ROMEO:" ---
+ROMEO:
+Muck in the lase in dewill and your fatters.
+
+GROMIO:
+He shall in the coulstion.
+
+BIANNO:
+The cursion some his to fieftet
+And shall underdies madame to Barking?
+
+RICHIOTHER:
+The costing and sake happs you:
+Bither which that chatine it boot come you are in to them.
+
+GROUCERHERS:
+And I king to revent thou ded the I chear,
+Than wo'll must manks of the rese and with the
+know That.
+
+PETRUCHIO:
+Away thou lay to this a sweep
+And you may the pagish is my boded brunks.
+
+BETRUCHIO:
+Ahow? Kay, thremerress
+
+--- Seed: "JULIET:" ---
+JULIET:
+God, a sir, givest thou well.
+
+PRONIO:
+Ho hove word ancile,
+Tear what not to the bound of on her, should besing I was so with with
+That shall the sinit; What's what is crany'd of you?
+
+QUEENTER:
+Nory cull thee To butt that not I dages.
+What a catle his gove a tishorme, the strait,
+Was besiso stall ne this desous same to thy candry
+Warth mush make would from a ming partingape.
+Stold by manient pote, compomith, and call my firls.
+
+PROUCESTER:
+Cay them and coultets, like himslenst take;
+Pear to th
+
+--- Seed: "To be or not" ---
+To be or noter.
+
+GRLOLIO:
+Doth! How cranes oneef, his scare of pine,
+And hap then the pither this it wortus tume be great.
+
+KINCANDIO:
+Here not be't not is beat intel,
+That it sin, him the should shall sapit, and brother buct thee.
+
+LORTONTIO:
+This manoth the faiter thempers.
+
+LEANTEO:
+What, my hence of sother bordet thai,
+I thou vaster and and there and I vine ore, and him the worlar,
+And thou woods post and she with say and not dizent.
+
+CAPENWANANA:
+We trued now tainsurimifer, let prickin
+'sme but one I a
+
