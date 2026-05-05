@@ -1,0 +1,68 @@
+SAMPLE GENERATIONS - VANILLA RNN (pure tanh)
+============================================================
+
+--- Seed: "ROMEO:" ---
+ROMEO:
+I doppare to hinore.
+
+BRUTHENAM Le IULEX:
+Were me shing Gremaned of now
+To beay
+when theop merends
+The repurest as mine thence were be strick,
+To sight his chad hath misture you make of timed
+To that sir, sir, that I to sine it shall's appeed,
+And when marry of proust Mayse pose with the bauthen them king upon; he strectieve,
+Fare me hence than it now that danger well! I should mere sees here whome what must hash lordy, and
+find me that Waday;
+And not thun, berail:
+Whoy, so besing
+A wood hard; 
+
+--- Seed: "JULIET:" ---
+JULIET:
+If the garmed sought.
+
+But murden.
+
+ONTESSAND:
+I wash thou sweather and glands have hour fathers:
+Whyre, my love.
+
+PROMEO:
+
+IONES:
+Why, if to shatlent to bear high a beffor here becior father:
+Nay, sweet and thou art sanch is canntibery hear the good turn and dofe abourther.
+
+PORTES:
+I will here I'll fave
+When the notselt ang heir.
+
+PRANEO:
+There is no merencest missinds,
+Come fit dour should be with the fors,
+But with you whin virit of the turn; come so susing uson of choor and with the windo 
+
+--- Seed: "To be or not" ---
+To be or noter'd
+What thou wasle.--
+ABETMIOA:
+I pain aghing in this will find aman:
+give the is thee,
+Thy best countia he
+
+prisenge?
+
+KING EYCA:
+But me mind me pray with throh out too man this diest nuch a love the is come think sal;
+Not is do me; what should me from me hups this not
+When reatant and fromad.
+
+Nor, Suent hand of the enesh my gutenets
+The rid to be recupt at breas.
+
+HARTIS:
+To a preadue ot myself Duse--
+Well me there we with beame of a worth or the go at brother; theme a chouband, who it as h
+
